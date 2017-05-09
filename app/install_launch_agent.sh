@@ -5,7 +5,7 @@ echo $DIR
 
 # write out path needed
 # pwd=$PWD
-pwd2="              <string>$DIR/./DesktopBackgroundChanger.app/Contents/Resources/script</string>"
+pwd2="              <string>$DIR/./DesktopBackgroundChang</string>"
 echo $pwd2
 # insert path needed into correct file.
 # line 9 in com.example.hello.plist
