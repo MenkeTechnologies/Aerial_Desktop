@@ -1,2 +1,2 @@
-./../../../app/local_install_workaround.sh
-./../../../app/install_launch_agent.sh
+./../../../app/install/local_install_workaround.sh
+./../../../app/install/install_launch_agent.sh
