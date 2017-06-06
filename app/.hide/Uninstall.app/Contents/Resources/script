@@ -1,6 +1,6 @@
-./../../../app/unstage_launch_agent.sh
-./../../../app/remove_aerial.sh
-mv ../../../Start.app/ ../../../app
-mv ../../../Stop.app/ ../../../app
-mv ../../../Uninstall.app ../../../app
-mv ../../../Installer.app ../../../../
+./../../../app/uninstall/unstage_launch_agent.sh
+./../../../app/uninstall/uninstall/remove_aerial.sh
+mv ../../../Start.app/ ../../../app/.hide
+mv ../../../Stop.app/ ../../../app/.hide
+mv ../../../app/.hide/Installer.app  ../../../
+mv ../../../Uninstall.app ../../../app/.hide
